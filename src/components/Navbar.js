@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://instagram.com/not.shoaib"
+                href="https://instagram.com/hehe.stalker_0"
                 target="_blank"
                 rel="noreferrer"
               >
