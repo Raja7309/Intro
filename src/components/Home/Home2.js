@@ -19,15 +19,15 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Shoaib Rafiq, A Student from Bandipore, Jammu & Kashmir
+              I am Stalker, A Student & Bot Developer from Jammu & Kashmir
               <br />
-              <br />I was born on 06 June 2009 and currently I'm 16 Years old !
+              <br />I was born on 06 June 2006 and currently I'm 18 Years old !
               <i>
                 <b className="purple"> C++, Javascript and Go. </b>
               </i>
               <br />
               <br />
-              My hobbies are Listening Music, Reading Books &nbsp;
+              My hobbies are Bot Developing, Web Development &nbsp;
               <i>
                 <b className="purple">and Travelling </b> and
                 also in areas related to{" "}
@@ -96,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/not.shoaib"
+                  href="https://www.instagram.com/hehe.stakker_0"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
