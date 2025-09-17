@@ -19,11 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Stalker, A Student & Bot Developer from Jammu & Kashmir
+              I am zenitsu, A Student & Bot Developer from Uttar Pradesh
               <br />
-              <br />I was born on 06 June 2006 and currently I'm 18 Years old !
+              <br />I was born on 21 november 2007 and currently I'm 17 Years old !
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="yellow"> C++, Javascript and Go. </b>
               </i>
               <br />
               <br />
